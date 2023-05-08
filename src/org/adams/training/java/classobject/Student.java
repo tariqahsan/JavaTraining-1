@@ -12,6 +12,8 @@ public class Student {
 		this.name = name;
 		System.out.println("Hello from " + studentId + " " + name);
 	}
+	
+	// Declare a variable
 	private int studentId;
 	public String name;
 	private String course;
